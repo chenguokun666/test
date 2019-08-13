@@ -1,0 +1,15 @@
+server:
+  port: 9002
+spring:
+  application:
+    name: education-search
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/education?characterEncoding=UTF8
+    username: root
+    password: cgk
+  data:
+    elasticsearch:
+      cluster-nodes: 127.0.0.1:9300
+  rabbitmq:
+    host: 127.0.0.1

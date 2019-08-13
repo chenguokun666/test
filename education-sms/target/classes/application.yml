@@ -1,0 +1,13 @@
+server:
+  port: 9000
+spring:
+  application:
+    name: education-sms
+  rabbitmq:
+    host: 127.0.0.1
+aliyun:
+  sms:
+    accessKeyId: LTAIfqgbO6P4HPlc
+    accessKeySecret: c0FqORL140hpQXKSea8K54K8Aa4Vqy
+    template_code: SMS_165676271
+    sign_name: 我爱喝可乐

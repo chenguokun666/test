@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-answer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-course" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-discuss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-elasticsearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-freemarkerdTest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-page" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-path" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-practice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-sms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/education-user" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,19 @@
+server:
+  port: 9005
+spring:
+  application:
+    name: education-path
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/education?characterEncoding=UTF8&serverTimezone=UTC
+    username: root
+    password: cgk
+  jpa:
+    database: mysql
+    show-sql: true
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://127.0.0.1:6868/eureka

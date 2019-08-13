@@ -1,0 +1,26 @@
+server:
+  port: 9004
+spring:
+  application:
+    name: education-user #指定服务名
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/education?characterEncoding=UTF8
+    username: root
+    password: cgk
+    jpa:
+      database: MySQL
+      show-sql: true
+  redis:
+    host: 127.0.0.1
+    port: 6379
+  rabbitmq:
+    host: 127.0.0.1
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:6868/eureka
+  instance:
+    prefer-ip-address: true

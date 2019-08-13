@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="education-user" />
+        <module name="education-sms" />
+        <module name="education-common" />
+        <module name="education-eureka" />
+        <module name="education-discuss" />
+        <module name="education-practice" />
+        <module name="education-freemarkerdTest" />
+        <module name="education-answer" />
+        <module name="education-page" />
+        <module name="education-course" />
+        <module name="education-demo" />
+        <module name="education-path" />
+        <module name="education-elasticsearch" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="education-answer" options="-parameters" />
+      <module name="education-common" options="-parameters" />
+      <module name="education-course" options="-parameters" />
+      <module name="education-demo" options="-parameters" />
+      <module name="education-discuss" options="-parameters" />
+      <module name="education-elasticsearch" options="-parameters" />
+      <module name="education-eureka" options="-parameters" />
+      <module name="education-freemarkerdTest" options="-parameters" />
+      <module name="education-page" options="-parameters" />
+      <module name="education-path" options="-parameters" />
+      <module name="education-practice" options="-parameters" />
+      <module name="education-sms" options="-parameters" />
+      <module name="education-user" options="-parameters" />
+    </option>
+  </component>
+</project>
