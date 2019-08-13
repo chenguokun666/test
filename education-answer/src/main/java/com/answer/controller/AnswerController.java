@@ -31,7 +31,7 @@ public class AnswerController {
 	@RequestMapping(value = "/addanswer",method = RequestMethod.POST)
 	public Result Addanswer(@RequestBody Answer answer){
           answerService.Addanswer(answer);
-          return new Result(true, StatusCode.OK," 添加成功");
+          return new Result(true, StatusCode.OK,"分添加成功");
 	}
 
 	/**

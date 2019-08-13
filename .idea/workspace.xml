@@ -4,7 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/education-page/src/main/resources/application.yml" line="10" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2336a60c-c722-4bca-b47b-2f7f7fc9565e" name="Default Changelist" comment="" />
+    <list default="true" id="2336a60c-c722-4bca-b47b-2f7f7fc9565e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/education-answer/src/main/java/com/answer/controller/AnswerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/education-answer/src/main/java/com/answer/controller/AnswerController.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/education-eureka/target/" />
@@ -36,7 +40,17 @@
     <favorites_list name="education-parent" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/education-answer/src/main/java/com/answer/controller/AnswerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -101,7 +115,6 @@
         <option value="$PROJECT_DIR$/education-answer/src/main/java/com/answer/AnswerApplication.java" />
         <option value="$PROJECT_DIR$/education-answer/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/education-answer/src/main/java/com/answer/service/AnswerService.java" />
-        <option value="$PROJECT_DIR$/education-answer/src/main/java/com/answer/controller/AnswerController.java" />
         <option value="$PROJECT_DIR$/education-practice/pom.xml" />
         <option value="$PROJECT_DIR$/education-practice/src/main/java/com/education/practice/controller/PracticeController.java" />
         <option value="$PROJECT_DIR$/education-practice/src/main/resources/application.yml" />
@@ -113,6 +126,7 @@
         <option value="$PROJECT_DIR$/education-freemarkerdTest/src/main/java/com/freemarker/Test.java" />
         <option value="$PROJECT_DIR$/education-demo/src/main/java/controller/DemoController.java" />
         <option value="$PROJECT_DIR$/education-demo/src/main/java/controller/Singtelon.java" />
+        <option value="$PROJECT_DIR$/education-answer/src/main/java/com/answer/controller/AnswerController.java" />
       </list>
     </option>
   </component>
@@ -179,6 +193,51 @@
             <path>
               <item name="education-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="education-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="education-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="education-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="education-answer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="education-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="education-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="education-answer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="education-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="education-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="education-answer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="education-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="education-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="education-answer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="education-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="education-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="education-answer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="answer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="education-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="education-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="education-answer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="answer" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -426,7 +485,7 @@
       <workItem from="1565708518294" duration="1856000" />
       <workItem from="1565712211002" duration="1442000" />
       <workItem from="1565713657967" duration="610000" />
-      <workItem from="1565714275950" duration="8000" />
+      <workItem from="1565714275950" duration="396000" />
     </task>
     <task id="LOCAL-00001" summary="serw">
       <created>1565713035894</created>
@@ -456,11 +515,18 @@
       <option name="project" value="LOCAL" />
       <updated>1565714092381</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第一次提交">
+      <created>1565714404687</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1565714404687</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="201887000" />
+    <option name="totallyTimeSpent" value="202275000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -473,8 +539,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="52" y="28" width="1232" height="720" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4979757" visible="true" weight="0.3407155" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4979757" visible="true" weight="0.3407155" />
       <window_info id="Structure" order="1" sideWeight="0.5020243" side_tool="true" weight="0.25268096" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -491,7 +558,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32956153" />
       <window_info anchor="bottom" id="GraphQL" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3282313" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3282313" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32956153" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
@@ -726,13 +793,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/education-answer/src/main/java/com/answer/controller/AnswerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/education-practice/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="371">
@@ -949,6 +1009,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="25" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/education-answer/src/main/java/com/answer/controller/AnswerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
         </state>
       </provider>
     </entry>
